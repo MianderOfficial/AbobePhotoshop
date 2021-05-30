@@ -1,0 +1,28 @@
+<html>
+    <title>Abobe Photoshop</title>
+    <body>
+        <header>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png">
+
+        </header>
+        <nav>
+            <a href="raboti">Мои Работы</a>
+        </nav>
+        <main>
+            <h1>Abobe Photoshop</h1>
+            <p>Adobe Photoshop — многофункциональный графический редактор, разрабатываемый и распространяемый компанией Adobe Systems. В основном работает с растровыми изображениями, однако имеет некоторые векторные инструменты.</p>
+            <p>Abobe Photoshop пользуются очень много людей, в особенности Ютуберы.</p>
+            <h1>Как скачать Abobe Photoshop</h1>
+            <ol>
+                <li>Заходим на этот <a href="https://www.adobe.com/ru/products/photoshop.html?skwcid=AL!3085!3!394027219127!e!!g!!adobe%20photoshop%20%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&mv=search&sdid=F89JZPN9&ef_id=CjwKCAjwzMeFBhBwEiwAzwS8zJGbXlzd-vBc1q9jk_XjLhomJOvqCJvZJD3b6rJNXBs3FD23f2ggIRoCji8QAvD_BwE:G:s&s_kwcid=AL!3085!3!394027219127!e!!g!!adobe%20photoshop%20%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C!1448416744!56508467255&gclid=CjwKCAjwzMeFBhBwEiwAzwS8zJGbXlzd-vBc1q9jk_XjLhomJOvqCJvZJD3b6rJNXBs3FD23f2ggIRoCji8QAvD_BwE">сайт</a></li>
+                <li>Покупаем или скачиваем пиратскую версию Abobe Photoshop</li>
+                <li>Ждём установки</li>
+                <li>Готово</li>
+            </ol>
+        </main>
+        <footer>
+            <p><a href="https://vk.com/mianderyt"><img src="https://pngicon.ru/file/uploads/vk-256x256.png"></a>
+            <a href="https://www.youtube.com/channel/UCa4-d8ac5Q1RvasSvNvhOJw"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png"></a></p>
+        </footer>
+    </body>
+</html>    
